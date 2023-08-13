@@ -1,4 +1,4 @@
-![image](https://github.com/Meetjain1512/Temperature-Converter/assets/99678497/1abb76b9-a5e4-4460-9ae9-61a4d562f5f6)<h1 align="center">
+<h1>
   Temperature Convetor
 </h1>
 CVIP #webdevelopment CodersCave Internship. Web development using HTML,CSS,Javascript. Phase 2 task 1  to make a Temperature Convetor. It is A responsive website design
